@@ -3,8 +3,8 @@
   "version": "2.10.4",
   "description": "HTML editor using Vue.js 2, and Quill.js, an open source editor",
   "author": {
-    "name": "David Royer",
-    "email": "droyer01@gmail.com"
+    "name": "Jony Ngo",
+    "email": "linhnv.dev@gmail.com"
   },
   "license": "MIT",
   "scripts": {
@@ -117,12 +117,9 @@
     "text editor"
   ],
   "productName": "Vue2Editor",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidroyer/vue2-editor.git"
+    "url": "https://github.com/linhvungo/vue2-editor.git"
   },
   "sideeffects": false
 }
